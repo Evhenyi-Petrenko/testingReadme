@@ -1,1 +1,3 @@
 # testingReadme
+
+Conflict test
